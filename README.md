@@ -1,2 +1,2 @@
 # SAPWebIDE
-Test Repository used for SAP Web IDE Testing
+Test Repository used for SAP Web IDE Testing.
